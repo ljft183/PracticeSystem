@@ -1,4 +1,4 @@
-# react 연습 프로젝트
+# react 연습 프로젝트.
 
 # Getting Started with Create React App
 
